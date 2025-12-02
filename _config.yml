@@ -24,7 +24,7 @@ github_username:  sinositato
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: modernist
 plugins:
   - jekyll-feed
 
