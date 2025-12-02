@@ -24,11 +24,9 @@ github_username:  sinositato
 
 # Build settings
 markdown: kramdown
-#theme: minima
-remote_theme: pages-themes/hacker@v0.2.0
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
   
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
