@@ -4,15 +4,22 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi — I'm Tato (sinositato). This site contains my notes, project write-ups, and occasional blog posts about web development, cloud, and automation.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+What you'll find here
+- Projects and code samples with short write-ups.
+- Technical notes and tutorials.
+- Blog posts about problems I solved and tools I use.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Where to find the source
+- GitHub: https://github.com/sinositato
 
+Tech & deployment
+- Built with Jekyll and the Minima theme.
+- Hosted on GitHub Pages.
 
-[jekyll-organization]: https://github.com/jekyll
+Contact
+- Preferred: open an issue on the GitHub repo linked above.
+- Alternatively: use the contact method listed on my GitHub profile.
+
+Last updated: 2025
