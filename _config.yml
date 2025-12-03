@@ -16,8 +16,7 @@
 title: Tato's Blog
 email: blog@sinositato.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A simple, quiet space for notes, ideas, and my AI journey.
-baseurl: "" # the subpath of your site, e.g. /blog
+  A simple, quiet space for notes, ideas, and my AI journey.baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sinositato.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sinositato
 github_username:  sinositato
